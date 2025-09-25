@@ -19,3 +19,15 @@ Date,Duration (hours),Category,Description of completed task,Challenges and/or n
 9/10/25,1,"Research, Training, Learning",Reading through how to properly write readme files and read through readme file examples from other repos,,I've never had to fully write a proper readme file until now
 9/10/25,3,Documentation,"Updated readme file in github repo, created Github Projects and added tasks, and started on slides",,
 9/10/25,1,"Research, Training, Learning",Reviewed implementations to further understand what I have been doing,,"Since this is my first time with 3D development, I want to use some time to understand what and why of the things I've been doing"
+9/16/25,1,"Research, Training, Learning",Looked through CISC 4900 Showcase to further understand what's needed for slides,,I saw a lot of different designs and how previous students approached making slides. The showcase was insightful to see what's expected of me
+9/16/25,3,Documentation,Worked on slides and diagrams,,
+9/17/25,3,Coding,"Implemented health, AI, and navmesh for AI",Certain things were not implemented correctly and took a bit to figure out,
+9/17/25,1,Testing & Debugging,Correctly applied and adjusted new implementations,,Unity can do weird things when you're putting in child objects. The things i implemented can sometimes be at a random location. Not sure if it's Unity or something I did wrong on my end
+9/17/25,2,"Research, Training, Learning",Reviewed code of health and AI. Researched navmesh out of curiosity,,Videos I looked up for navmesh were interesting and it gave me more insight on how bots move in other games too
+9/18/25,3,Coding,"Reimplemented health, AI, and navmesh","For some reason, nothing I did was saved and I had to start back in square one. I had to go through what else I was missing besides the previous implementations",I should start remembering to save my work more often so that I don't end up losing all this progress
+9/18/25,1,Testing & Debugging,Making sure everything is in order and that things are correctly saved,,
+9/23/25,5,"Research, Training, Learning",Started an online course for Comptia A+ Certification on Youtube by Professor Messer,,I already have a lot of prior knowledge of IT so a good chunk of material was a refresher or updated information. I did come across a bunch of material that's very new to me and they were insightful
+9/24/25,5,"Research, Training, Learning",Continued the course for Comptia A+ Certification,,
+9/25/25,2.5,Documentation,Finished up slides and updated github repo,,
+9/25/25,2,Coding,Adjusting hitboxes and colliders for different tank models,,
+9/25/25,0.5,Testing & Debugging,Testing colliders are working as intended,,
