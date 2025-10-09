@@ -178,6 +178,10 @@ PrefabInstance:
       propertyPath: m_LocalPosition.z
       value: 1.86
       objectReference: {fileID: 0}
+    - target: {fileID: 6232647952443509594, guid: 07002cc8fea948142b7537df4d30ebc2, type: 3}
+      propertyPath: m_Speed
+      value: 16
+      objectReference: {fileID: 0}
     - target: {fileID: 6722816042484401193, guid: 07002cc8fea948142b7537df4d30ebc2, type: 3}
       propertyPath: m_Name
       value: Tank Range Variant
