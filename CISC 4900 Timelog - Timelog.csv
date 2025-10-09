@@ -31,3 +31,11 @@ Date,Duration (hours),Category,Description of completed task,Challenges and/or n
 9/25/25,2.5,Documentation,Finished up slides and updated github repo,,
 9/25/25,2,Coding,Adjusting hitboxes and colliders for different tank models,,
 9/25/25,0.5,Testing & Debugging,Testing colliders are working as intended,,
+9/29/25,0.5,Other,Discussion of the role of a software engineer with an AMEX software engineer that has 5 years of experience,,"Though I don't plan on working towards a SE role, the discussion was insightful and learned new things about it"
+9/29/25,4,Other,Troubleshooted laptop due to technical errors,I encountered errors that prevented me from doing anything with my laptop. Had to take time to troubleshoot and update my system,"Thankfully, I have personal IT experiences so I was able to troubleshoot and fix my laptop. Any technical errors I encounter, I used them to also gain knowledge and experience, should similar situations happen again. Though the whole process took longer than usual"
+9/29/25,1.5,Documentation,First demo recording submission,,Setup and organization took longer than usual. Took multiple takes of recordings
+9/30/25,5,"Research, Training, Learning",Continuing Comptia A+ certification course and explored other certifications,,
+10/3/25,2,Coding,"Created 4 tank classes with respectable stats, models, and hitboxes",Unusual errors with prefab savings that took a bit to fix,
+10/3/25,1,Testing & Debugging,Making sure the stats and hitboxes were as intended. Playtesting,"Box collider did something really weird with one of my models, where my tank would not stop spinning around by itself when hit",It took more work than I thought and I may have fixed it by adjusting the collider below the ground
+10/3/25,0.5,Documentation,Reviewing how to use GitHub Desktop and uploading necessary files to repo,,
+10/3/25,1,Supervisor Discussion,Discussion and submission of supervisor evaluation,,
