@@ -39,3 +39,10 @@ Date,Duration (hours),Category,Description of completed task,Challenges and/or n
 10/3/25,1,Testing & Debugging,Making sure the stats and hitboxes were as intended. Playtesting,"Box collider did something really weird with one of my models, where my tank would not stop spinning around by itself when hit",It took more work than I thought and I may have fixed it by adjusting the collider below the ground
 10/3/25,0.5,Documentation,Reviewing how to use GitHub Desktop and uploading necessary files to repo,,
 10/3/25,1,Supervisor Discussion,Discussion and submission of supervisor evaluation,,
+10/6/25,3,Coding,Added music with some sound tweaks and started creation of main menu,,
+10/6/25,2,Testing & Debugging,Fixed unexpected errors of previous implementation,"Thankfully, I had a backup so I was able to restore some of what I've had before",
+10/7/25,2,Documentation,Peer evaluation,Instructions were somewhat confusing but submitted nonetheless,"I saw some things from the peer evaluation that I will also incorporate in my repo and project, such as better descriptive commit comments"
+10/7/25,1.5,Supervisor Discussion,Discussion over project and the tech field with up to date information,,"Discussion about the tech field gave me so much insight and it shed a lot of light to me. I was recommended to learn about cloud (AWS, Microsoft Azure) and SQL"
+10/8/25,2.5,"Research, Training, Learning",Explored different focuses in tech and other certifications like Security+ and Network+,,"Taking from my discussion with my supervisor, I want to put myself in other places in tech so know exactly what I want to do in the future"
+10/9/25,2,Coding,Continuation of Main Menu,,"I had to create new materials since I found that all model tanks use the same material. In changing the material, it changes for all tank models."
+10/9/25,1,Testing & Debugging,Making sure main menu works how it's intended and corrected any errors,,
