@@ -60,6 +60,14 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -8044383949094099214, guid: 41ece72e0713db145a64901e41780965, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 12c120f2400576c4f97a98bcca5529bc, type: 2}
+    - target: {fileID: -5169677972427226811, guid: 41ece72e0713db145a64901e41780965, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 12c120f2400576c4f97a98bcca5529bc, type: 2}
     - target: {fileID: 919132149155446097, guid: 41ece72e0713db145a64901e41780965, type: 3}
       propertyPath: m_Name
       value: Tank_RocketShip_Model

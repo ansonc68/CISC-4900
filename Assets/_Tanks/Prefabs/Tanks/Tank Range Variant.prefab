@@ -48,6 +48,14 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -2989086340958864804, guid: d8ab45ba858f142458af9a2bad8122f6, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 12c120f2400576c4f97a98bcca5529bc, type: 2}
+    - target: {fileID: -2670727074968511295, guid: d8ab45ba858f142458af9a2bad8122f6, type: 3}
+      propertyPath: 'm_Materials.Array.data[2]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 12c120f2400576c4f97a98bcca5529bc, type: 2}
     - target: {fileID: 919132149155446097, guid: d8ab45ba858f142458af9a2bad8122f6, type: 3}
       propertyPath: m_Name
       value: Tank_UFO_Model

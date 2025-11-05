@@ -47,8 +47,19 @@ Date,Duration (hours),Category,Description of completed task,Challenges and/or n
 10/9/25,2,Coding,Continuation of Main Menu,,"I had to create new materials since I found that all model tanks use the same material. In changing the material, it changes for all tank models."
 10/9/25,1,Testing & Debugging,Making sure main menu works how it's intended and corrected any errors,,
 10/13/25,5,"Research, Training, Learning",Continuation of A+ Certification Course,,
-10/14/25,0.5,Other,Live Presentation,,
+10/14/25,0.5,Documentation,Live Presentation,,
 10/15/25,5,"Research, Training, Learning",Restarted A+ Certification Course,Turns out I've been watching videos on a presvious version of the course and not the updated 1201 and 1202. Restarted so that I can take in up to date info,
 10/16/25,3,"Research, Training, Learning",Skipped ahead to watch videos on troubleshooting in the A+ course,,Very useful information that I will keep in mind when I do any form of troubleshooting
-10/21/25,3,Coding,Updated Unity Build Version and added additional features such as pause option and powerups,,
-10/21/25,2,Testing & Debugging,Debugged scene management and fixed issues that came from updating Unity Build Version. Playtesting and tweaking,,
+10/21/25,3,Coding,Updated Unity Editor Version and added additional features such as pause option and powerups,,
+10/21/25,2,Testing & Debugging,Debugged scene management and fixed issues that came from updating Unity Editor Version. Playtesting and tweaking,,
+10/21/25,0.5,Documentation,Updated Github Repo,,
+10/22/25,3.5,Documentation,Full draft of slides,,
+10/23/25,3,"Research, Training, Learning",Continuation and reflection of A+ Certification course,,Reflections to make sure I take in the information learned rather than just going through the course
+10/24/25,1.5,Other,"Innovation Fellowship Application from The Knowledge House (Application, pre-assessment, Document submissions)",,"I was invited to apply for Innovation Fellowship from The Knowledge House. I will be applying for their cybersecurity track. The pre-assessment consisted of a couple of logic and basic python questions. After getting a good score, I was able to submit documents. This whole process took longer than expected"
+10/24/25,1,Testing & Debugging,Reviewing progress and making sure there are no bugs or anything that slipped by me after the Unity security update,,
+10/28/25,5,"Research, Training, Learning",Explored and started courses on freecodecamp,,I want to reinforce my knowledge on what i know in web development and also re-learn python
+10/29/25,5,"Research, Training, Learning",Continuation of freecodecamp courses,,
+10/30/25,3,Other,Discussion of someone i know that is changing majors to something in tech,,We had a long discussion on what to expect and a possible roadmap on what is needed to complete her degree. I've shared some of my experiences in the tech education and industry. Also provided any useful tips for expectations. Discussion was very fruitful 
+10/31/25,2,"Research, Training, Learning",Started CompTIA Security+ online course from Professor Messer on YouTube,,"Comparing to my current information security course I am taking on campus, I saw a lot of similarities in specific topics between both courses"
+11/3/25,5,"Research, Training, Learning",Completed one section and started on the next in freecodecamp,,
+11/4/25,2,"Research, Training, Learning",Jumped to Relational Database course in freecodecamp,,"This course just released and I've been waiting for this course to finalize. I can now start learning more of databses and SQL, as per my supervisor's suggestions"
