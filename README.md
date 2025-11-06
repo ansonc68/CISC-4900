@@ -1,4 +1,4 @@
-# CISC-4900
+# CISC-4900 (Game(s) if bored)
 
 ## What is it?
 
