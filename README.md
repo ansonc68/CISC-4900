@@ -6,7 +6,7 @@
 
 I will be using what’s available to me in the package to make a fully fledged game that will be entertaining and provide leisure time in times of boredom.
 
-Itchio link: (Coming soon)
+[Itchio link](https://ricolin133.itch.io/tanks)
 
 ## Why this?
 
