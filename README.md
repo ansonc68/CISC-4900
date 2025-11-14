@@ -4,9 +4,11 @@
 
 3D PvP tank game using a [Unity asset package](https://assetstore.unity.com/packages/essentials/tutorial-projects/tanks-complete-project-46209?srsltid=AfmBOop_P5FN_eZLykRxFV1K1Rz2zgGSEBBgiaYMAMi9MFQ4ouMBjgmr)
 
+[Music file](https://pixabay.com/music/video-games-game-8-bit-on-278083/)
+
 I will be using what’s available to me in the package to make a fully fledged game that will be entertaining and provide leisure time in times of boredom.
 
-Itchio link: (Coming soon)
+[Itchio link](https://ricolin133.itch.io/tanks)
 
 ## Why this?
 
