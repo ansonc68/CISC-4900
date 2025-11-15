@@ -59,11 +59,21 @@ Date,Duration (hours),Category,Description of completed task,Challenges and/or n
 10/24/25,1,Testing & Debugging,Reviewing progress and making sure there are no bugs or anything that slipped by me after the Unity security update,,
 10/28/25,5,"Research, Training, Learning",Explored and started courses on freecodecamp,,I want to reinforce my knowledge on what i know in web development and also re-learn python
 10/29/25,5,"Research, Training, Learning",Continuation of freecodecamp courses,,
-10/30/25,3,Other,Discussion of someone i know that is changing majors to something in tech,,We had a long discussion on what to expect and a possible roadmap on what is needed to complete her degree. I've shared some of my experiences in the tech education and industry. Also provided any useful tips for expectations. Discussion was very fruitful 
+10/30/25,3,Other,Discussion with someone i know that is changing majors to Information Systems,,We had a long discussion on what to expect and a possible roadmap on what is needed to complete her degree. I've shared some of my experiences in the tech education and industry. Also provided any useful tips for expectations. Discussion was very fruitful 
 10/31/25,2,"Research, Training, Learning",Started CompTIA Security+ online course from Professor Messer on YouTube,,"Comparing to my current information security course I am taking on campus, I saw a lot of similarities in specific topics between both courses"
 11/3/25,5,"Research, Training, Learning",Completed one section and started on the next in freecodecamp,,
 11/4/25,2,"Research, Training, Learning",Jumped to Relational Database course in freecodecamp,,"This course just released and I've been waiting for this course to finalize. I can now start learning more of databses and SQL, as per my supervisor's suggestions"
 11/5/25,0.5,Documentation,Updated Github repo,,
 11/5/25,5,Coding,"Added lighting, mobile support, and map change feature","While changing maps, some assets had to be partially rebuilt to accomodate the new scene. At the same time, I had to look around each scene to see if I was missing anything. Biggest challenge was figure out what I'm actually missing","This was pretty troublesome since it was annoying to figure out any missing components I needed to implement. Often times, the missing features would slip pass my mind"
 11/5/25,2,Testing & Debugging,Stress-testing map change feature as well as debugging and implementing anything that's missing,,
-11/6/25,0.5,Documentation,Second demo recording submission,,
+11/6/25,1.5,Documentation,Second demo recording submission,Setup and getting everything ready for the demo recording took way longer than expected,
+11/11/25,1,Other,Webinar with COOP Careers,,Applying for their data analysis path
+11/12/25,0.5,Other,Interview for The Knowledge House's Innovation Fellowship,,Currently going for their cybersecurity track to get a different set of challenges and more knowledge
+11/12/25,1,Other,Another webinar with COOP Careers,,
+11/13/25,1,Other,Interview with COOP Careers for Data Analysis track,,
+11/13/25,1,Other,Another webinar with COOP Careers,,
+11/13/25,5,Coding,"Added volume settings, adjusted UI, set build to WebGL, and published to itchio",Implementing the volume settings took way longer than expected. I had to look up a couple tutorials and see which one would help me the best.,"Setting the build to WebGL took so long I had to find other things to do while I wait. But seeing the game finally ready to play, I feel very accomplished. Now I will be moving to playtesting"
+11/13/25,2,Testing & Debugging,Seeing if everything works as intended and played around settings in itchio,,
+11/13/25,1,Documentation,Updated GitHub repo and slides,,
+11/14/25,3,Testing & Debugging,Playtesting starts,,Found a couple people willing to provide feedback 
+11/14/25,0.5,Documentation,Recorded any feedback,,Interesting how more bugs and QoL issues start to arise after I put it into playtesting
