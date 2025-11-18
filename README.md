@@ -4,7 +4,8 @@
 
 3D PvP tank game using a [Unity asset package](https://assetstore.unity.com/packages/essentials/tutorial-projects/tanks-complete-project-46209?srsltid=AfmBOop_P5FN_eZLykRxFV1K1Rz2zgGSEBBgiaYMAMi9MFQ4ouMBjgmr)
 
-[Music file](https://pixabay.com/music/video-games-game-8-bit-on-278083/)
+[Jungle Map Music](https://pixabay.com/music/video-games-game-8-bit-on-278083/)
+[Moon Map Music](https://teknoaxe.com/Link_Code_3.php?q=2060)
 
 I will be using what’s available to me in the package to make a fully fledged game that will be entertaining and provide leisure time in times of boredom.
 
