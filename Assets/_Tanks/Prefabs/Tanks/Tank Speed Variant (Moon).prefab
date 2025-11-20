@@ -232,7 +232,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1154399853985028738, guid: 07002cc8fea948142b7537df4d30ebc2, type: 3}
       propertyPath: m_MaxDamage
-      value: 30
+      value: 35
       objectReference: {fileID: 0}
     - target: {fileID: 1154399853985028738, guid: 07002cc8fea948142b7537df4d30ebc2, type: 3}
       propertyPath: m_ShotCooldown
@@ -256,7 +256,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1154399853985028738, guid: 07002cc8fea948142b7537df4d30ebc2, type: 3}
       propertyPath: m_ExplosionRadius
-      value: 1
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 3211448244063180863, guid: 07002cc8fea948142b7537df4d30ebc2, type: 3}
       propertyPath: m_Size.x
@@ -324,7 +324,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5913662769449354423, guid: 07002cc8fea948142b7537df4d30ebc2, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 0.74
+      value: 1.25
       objectReference: {fileID: 0}
     - target: {fileID: 5913662769449354423, guid: 07002cc8fea948142b7537df4d30ebc2, type: 3}
       propertyPath: m_LocalPosition.z
@@ -332,11 +332,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6232647952443509594, guid: 07002cc8fea948142b7537df4d30ebc2, type: 3}
       propertyPath: m_Speed
-      value: 20
+      value: 22
       objectReference: {fileID: 0}
     - target: {fileID: 6232647952443509594, guid: 07002cc8fea948142b7537df4d30ebc2, type: 3}
       propertyPath: m_TurnSpeed
-      value: 210
+      value: 220
       objectReference: {fileID: 0}
     - target: {fileID: 6722816042484401193, guid: 07002cc8fea948142b7537df4d30ebc2, type: 3}
       propertyPath: m_Name
@@ -344,7 +344,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8149852434230371926, guid: 07002cc8fea948142b7537df4d30ebc2, type: 3}
       propertyPath: m_StartingHealth
-      value: 100
+      value: 110
       objectReference: {fileID: 0}
     - target: {fileID: 8354872289827012008, guid: 07002cc8fea948142b7537df4d30ebc2, type: 3}
       propertyPath: m_Sprite
