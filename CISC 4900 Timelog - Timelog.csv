@@ -76,4 +76,22 @@ Date,Duration (hours),Category,Description of completed task,Challenges and/or n
 11/13/25,2,Testing & Debugging,Seeing if everything works as intended and played around settings in itchio,,
 11/13/25,1,Documentation,Updated GitHub repo and slides,,
 11/14/25,3,Testing & Debugging,Playtesting starts,,Found a couple people willing to provide feedback 
-11/14/25,0.5,Documentation,Recorded any feedback,,Interesting how more bugs and QoL issues start to arise after I put it into playtesting
+11/14/25,1.5,Documentation,Discussions with playtesters and recorded any feedback,,Interesting how more bugs and QoL issues start to arise after I put it into playtesting
+11/17/25,1,Documentation,Feedback collection,"iOS seems to have an issue with the game, but PC and Android are fine. I'm not sure if this issue is on my side or Apple's",
+11/18/25,3,Coding,Took in feedback and started to fix issues related to the feedback received,,
+11/18/25,3,Testing & Debugging,Testing to make sure fixes are applied correctly and works as intended,,
+11/19/25,3,Documentation,Working on slides and updating repo,,
+11/20/25,3,Testing & Debugging,Added more fixes and changes to prevent further issues,,"As per one of the feedbacks from my playtesters, I went to look all around the maps to see if the same issue can be repeated in other areas. Changes have been made to the best of my ability"
+11/20/25,0.5,Documentation,Updated repo,,
+11/20/25,0.5,Testing & Debugging,Notified and discussed with playtesters of new changes,,
+11/21/25,4,"Research, Training, Learning",Worked on courses in freecodecamp,,
+11/24/25,4,Documentation,Worked on slides and took in any feedback/bugs,,Looked like I missed quite a few issues
+11/24/25,3,Testing & Debugging,Fixed any issues from feedback gathered and fixed any further potential issues,,
+11/24/25,1.5,Documentation,Updated repo and itchio,,Unity took very long to build to folder
+11/25/25,2,Documentation,Final recording and submission of project,,
+11/25/25,5,"Research, Training, Learning",Continuing Comptia A+ and Security+ courses,,
+12/1/25,4,"Research, Training, Learning",Watched a VR development course on YouTube,,"I got curious and wanted to see how VR development is done. As someone who enjoys VR, this is fasincating"
+12/1/25,1.5,Other,Discussion with someone over changing majors and provided any tips or advice,,I was able to provide any tips and advice that I have gained throughout my college career
+12/1/25,0.5,Other,Revised resume,,
+12/2/25,5.5,"Research, Training, Learning",Watched different cybersecurity and network videos on YouTube and continued CompTIA and freecodecamp courses,,"Along with some of the security and network info I got from the CompTIA courses, I'm able to reinforce my knowledge with other sources"
+12/2/25,0.5,Supervisor Discussion,Submission of final supervisor evaluation ,,
